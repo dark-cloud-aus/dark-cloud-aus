@@ -12,7 +12,9 @@
 - 🥅 2023 Goals: Learn malware analysis, pass my exams and get a full time cyber sec job
 - ⚡ Fun fact: I love watching movies and have a slight obsession with Christopher Nolan movies
 
+### Connect with me:
 
+- [Message me via my website](https://www.davetechguy.com.au)
 
 <br />
 <br />
@@ -33,7 +35,7 @@
 
 ---
 
-### 📕 People Who Inspire Me
+### 🙋 People Who Inspire Me
 
 
 - [Jim Al-Khalili, Theoretical Physicist](https://en.wikipedia.org/wiki/Jim_Al-Khalili)
@@ -44,6 +46,13 @@
 
 
 ---
+
+### 📕 Most Recently Read Books
+
+
+- [Think Like a Monk](https://www.amazon.com.au/Think-Like-Monk-Purpose-Everyday/dp/0008355568/ref=sr_1_1_sspa?crid=1RSCBZLMZ5QZL&keywords=think+like+a+monk&qid=1687859716&sprefix=think+like+a+mon%2Caps%2C277&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [Cryptography and Network Security](https://www.amazon.com.au/Cryptography-Network-Security-Demystifying-Cryptographic/dp/9389328667/ref=sr_1_1_sspa?crid=DVQ00PN38O2P&keywords=cryptography&qid=1687859755&sprefix=cryptograp%2Caps%2C280&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [The Blind Watchmaker](https://www.amazon.com.au/Blind-Watchmaker-Richard-Dawkins/dp/0141026162/ref=sr_1_1?crid=334LG20JPE0NO&keywords=blind+watchmaker&qid=1687859820&sprefix=blnd+watchmaker%2Caps%2C256&sr=8-1)
 
 
 </details>
