@@ -55,7 +55,29 @@
 - [The Blind Watchmaker](https://www.amazon.com.au/Blind-Watchmaker-Richard-Dawkins/dp/0141026162/ref=sr_1_1?crid=334LG20JPE0NO&keywords=blind+watchmaker&qid=1687859820&sprefix=blnd+watchmaker%2Caps%2C256&sr=8-1)
 
 
+---
+
+
+### Languages and Tools:
+<div align=left>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nim/nim.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/wiki/EmpireProject/Empire/Images/empire_logo.png"></code>
+<code><img height="45" src="https://icon2.cleanpng.com/20180524/jcw/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9aa8b428.840692331527197594691.jpg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
+<code><img height="45" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height="45"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="45"></code>
 </details>
+
+
+---
+
+### Certifications 📜
+Studying Cert IV Cyber Security @ Victoria University
+Google Cyber Certificate \ Splunk 101 \ Metasploit \ Quantum Cryptography
 
 [website]: https://davetechguy.com.au
 [youtube]: https://www.youtube.com/channel/UCX2zIEJeffJKO0wFJ624fZw
