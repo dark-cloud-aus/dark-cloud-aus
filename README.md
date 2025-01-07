@@ -1,16 +1,15 @@
-# Hi there, I'm Dave - aka [Dark Cloud][youtube] 👋 
+# Hi there, I'm David Gilmore 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCX2zIEJeffJKO0wFJ624fZw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=Dave_TechGuy.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.davetechguy.com.au)
 
 
 
-## I'm a Husband, Father, Cyber Security Student and Passionate Malware Researcher
+## I'm a Husband, Father, Cyber Security Analyst and Passionate AI researcher.
 
-- 🌱 I’m currently studying cyber security at University 
-- 👯 I’m looking to collaborate with other cyber security professionals
-- 🥅 2023 Goals: Learn malware analysis, pass my exams and get a full time cyber sec job
-- ⚡ Fun fact: I love watching movies and have a slight obsession with Christopher Nolan movies
+- 🌱 I’m currently working as a cyber security analyst.
+- 👯 I’m looking to collaborate with other cyber security professionals.
+- 🥅 2025 Goals: Write 2 papers on AI research and better myself in my current job.
+- ⚡ Fun fact: I love watching movies and have a slight obsession with Christopher Nolan!
 
 ### Connect with me:
 
@@ -21,17 +20,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-
-- [Setting up my malware home lab](https://www.youtube.com/watch?v=wtOH5o8w9c0)
-- [🤔 Steganography script](https://www.youtube.com/watch?v=QJ_cEePjm5s)
-- [How hackers setup a phishing email campaign](https://www.youtube.com/watch?v=TDCpEXz1iTU)
-- [Evil Extractor Malware For Sale !](https://www.youtube.com/watch?v=XXZD19V_cZE)
-- [🛑 Learn how to hack](https://www.youtube.com/watch?v=-u3GlcrOD4E)
-
-
-➡️ [more videos...](https://www.youtube.com/channel/UCX2zIEJeffJKO0wFJ624fZw)
 
 ---
 
@@ -80,5 +68,4 @@ Studying Cert IV Cyber Security @ Victoria University
 Google Cyber Certificate \ Splunk 101 \ Metasploit \ Quantum Cryptography
 
 [website]: https://davetechguy.com.au
-[youtube]: https://www.youtube.com/channel/UCX2zIEJeffJKO0wFJ624fZw
 [linkedin]:https://www.linkedin.com/in/david-gilmore-australia
