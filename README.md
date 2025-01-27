@@ -8,12 +8,12 @@
 
 - 🌱 I’m currently working as a cyber security analyst.
 - 👯 I’m looking to collaborate with other cyber security professionals.
-- 🥅 2025 Goals: Write 2 papers on AI research and better myself in my current job.
+- 🥅 2025 Goals: Publish my first ios app, launch a web app, and move in to a more specailist roll in the company I work for.
 - ⚡ Fun fact: I love watching movies and have a slight obsession with Christopher Nolan!
 
 ### Connect with me:
 
-- [Message me via my website](https://www.davetechguy.com.au)
+- [Message me via my LinkedIn page]
 
 <br />
 <br />
@@ -64,8 +64,8 @@
 ---
 
 ### Certifications 📜
-Studying Cert IV Cyber Security @ Victoria University
+Cyber Security @ Victoria University
 Google Cyber Certificate \ Splunk 101 \ Metasploit \ Quantum Cryptography
 
-[website]: https://davetechguy.com.au
+[website]: https://techguyoz.wixsite.com/dave-techguy
 [linkedin]:https://www.linkedin.com/in/david-gilmore-australia
